@@ -4,7 +4,7 @@ Aplicação desenvolvida por [Thiele Nunes](https://github.com/thielenunes)
 Usando layout desenvolvido no curso de "App News criado por Daniel Lopes" encontrado na Udemy.
  
 
-# patternMVPlogin
+# News App
 Projeto criado com o intuito de estudar sobre Android + Kotlin + Retrofit + Coroutines + Room
 
 ### Funcionalidades
